@@ -1,0 +1,6 @@
+{
+  "name": "IndiFunded",
+  "description": "India's prop trading firm platform — funded trading challenges, virtual trading simulator, payout verification, trader dashboard, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
